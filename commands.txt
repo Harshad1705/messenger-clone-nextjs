@@ -4,3 +4,41 @@ npx create-next-app@latest --typescript --tailwind
 √ Would you like to use App Router? (recommended) ...  Yes
 √ Would you like to customize the default import alias (@/*)? ...  Yes
 √ What import alias would you like configured? ... @/*
+
+
+npm i react-icons react-hook-form clsx
+
+npm install @tailwindcss/forms
+
+npm install -D prisma
+npx prisma init
+
+npx prisma db push
+
+npm install next-auth@latest @prisma/client @next-auth/prisma-adapter bcrypt
+npm install -D @types/bcrypt
+
+npm install axios
+
+npm install react-hot-toast
+
+npm install react-icons
+
+npm i next-superjson-plugin
+
+npm i date-fns
+
+npm install next-cloudinary
+
+npm install @headlessui/react
+
+npm i react-select
+
+npm i react-spinners
+
+npm install pusher pusher-js
+
+npm install lodash
+npm install -D @types/lodash
+
+npm i zustand
